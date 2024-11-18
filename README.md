@@ -1,4 +1,5 @@
-## Hi there 👋
+## olá, sou a Angel 👋
+estou aqui para aprender mais sobre programação
 
 <!--
 **luxxie-a/luxxie-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
